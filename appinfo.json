@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable",
+        "health"
+    ],
+    "companyName": "kiit.rahul@gmail.com",
+    "longName": "TestSimpleJs",
+    "projectType": "simplyjs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "TestSimpleJs",
+    "uuid": "3bd1d2fd-8b7c-48d3-891f-bd96a4d2e03b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
